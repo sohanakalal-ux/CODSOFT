@@ -125,6 +125,6 @@ bot: bye bye! have a great day :)
 
 Made by Kalal Sohana
 
-LinkedIn: [Add Your LinkedIn Profile Link Here]
+LinkedIn: [https://lnkd.in/g6b8_sC5]
 
-GitHub: [Add Your GitHub Profile Link Here]
+GitHub: [https://github.com/sohanamahendar-ux/CODSOFT/edit/main/Task_Chatbot/Chatbot]
