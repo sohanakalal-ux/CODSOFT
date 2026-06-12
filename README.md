@@ -90,6 +90,7 @@ A content-based recommendation system that suggests beginner-friendly courses fr
 
 ## Repository Structure
 
+```text
 CODSOFT
 │
 ├── README.md
@@ -120,8 +121,7 @@ CODSOFT
         ├── home_screen.png
         ├── recommendations.png
         └── final_output.png
-
-
+```
 ## Technologies Used
 
 * Python 3
