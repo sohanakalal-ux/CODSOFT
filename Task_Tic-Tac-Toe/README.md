@@ -348,7 +348,7 @@ understand, but powerful enough to never lose.
 ## Author
 Made by Kalal Sohana
 
-LinkedIn: []
+LinkedIn: [https://lnkd.in/g3aakZvn]
 
 GitHub: [https://github.com/sohanakalal-ux/CODSOFT/tree/main/Task_Tic-Tac-Toe]
 
